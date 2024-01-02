@@ -1,4 +1,6 @@
 # james
 testing
 hello
-james
+
+this is a conflict point
+
